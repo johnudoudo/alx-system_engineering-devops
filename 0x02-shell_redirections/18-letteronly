@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep ^[[:alpha:]] /etc/ssh_config
+egrep ^[[:alpha:]] /etc/ssh/_config
